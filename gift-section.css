@@ -28,8 +28,25 @@
 #describe-one-word-img-div:hover{
 background-image: url('image/youre-a-genius-faisal-khan.webp');
 background-size: cover;
+background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
 }
 
 #badass-section-img-div:hover{
 background-image: url('image/im-talking-about-badass-when-i-say-bad-ass-bad-ass.gif');
+background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+ 
+}
+#for-you-img-div{
+height:200px;
+
+}
+#for-you-img-div:hover{
+    background-image: url('image/cheers-toast.gif');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
 }
