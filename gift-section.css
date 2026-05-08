@@ -24,3 +24,12 @@
 #enter-room-img-div:hover{
     background-image: url('image/excited.gif');
 }
+
+#describe-one-word-img-div:hover{
+background-image: url('image/youre-a-genius-faisal-khan.webp');
+background-size: cover;
+}
+
+#badass-section-img-div:hover{
+background-image: url('image/im-talking-about-badass-when-i-say-bad-ass-bad-ass.gif');
+}
